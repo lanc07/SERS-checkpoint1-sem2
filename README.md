@@ -5,7 +5,7 @@ Enviar apenas o link do repositório.
 
 # Integrantes:
 - Allan de Souza Cardoso - RM: 561721
-- Julia Borges Pachoalinoto - RM: 562390
+- Julia Borges Pachoalinoto - RM: 564725
 - Raquel Amaral de Oliveira - RM: 566491
 
   # Datasets
